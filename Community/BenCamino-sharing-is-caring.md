@@ -1,7 +1,7 @@
 ---
 title: Sharing is Caring
 ms.date: 3/13/2020
-author: JoanneHendrickson
+author: Ben Camino
 ms.reviewer:  jhendr
 localization_priority: 
 description: This is a page that is modified during the Sharing is Caring workshop
@@ -125,6 +125,6 @@ At this point, you're a contributor! Thanks in advance for making your contribut
 
 ---
 
-**Principal author**: [Your Name Here](http://www.linkedin.com/in/YourProfileLink)
+**Principal author**: [Ebenezer Camino](http://www.linkedin.com/in/camiebe)
 
 ---
